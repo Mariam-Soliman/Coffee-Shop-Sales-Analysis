@@ -16,7 +16,6 @@ Using Pivot Tables sales data was analyzed by:
 - Month
 - Day of week
 - Time
-- 
 - Branch
 - Category 
 - Product type  
